@@ -203,3 +203,6 @@
         iqtree -s "$longest_file" -m GTR+G -B 1000 --bnni -alrt 1000 -T 16 --prefix "outputs/iqtree_${long_basename}"
     
     fi
+
+![bugulidae tree 05_08_25](https://github.com/user-attachments/assets/ee293a61-502f-4b9c-aae3-df93374aab69)
+
